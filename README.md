@@ -39,6 +39,7 @@ FFood is a food website that lets customers order food in a quick and convenient
 
 ## Technologies
 
+- 100% Pura Fe
 - Java SE 1.8
 - JSTL 1.2
 - Tomcat 10 (Java EE 7)
